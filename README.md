@@ -1,2 +1,2 @@
-## This is For my cloud storage code for my Modification in Linux Fendora
+## This is for my cloud storage code for my modification in Linux Fendora
 
